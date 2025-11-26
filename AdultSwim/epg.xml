@@ -1,2 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv />
+<tv generator-info-name="Adult Swim IPTV EPG" generator-info-url="https://github.com/Ripshift/IPTV">
+  <channel id="Adult Swim">
+    <display-name>Adult Swim</display-name>
+  </channel>
+  <channel id="Robot Chicken">
+    <display-name>Robot Chicken</display-name>
+  </channel>
+  <channel id="Infomercials">
+    <display-name>Infomercials</display-name>
+  </channel>
+  <channel id="Off The Air Smalls">
+    <display-name>Off the Air Smalls</display-name>
+  </channel>
+  <channel id="Channel 5">
+    <display-name>Channel 5</display-name>
+  </channel>
+  <channel id="Metalocalypse">
+    <display-name>Metalocalypse</display-name>
+  </channel>
+  <channel id="Superjail">
+    <display-name>Superjail</display-name>
+  </channel>
+  <channel id="Aqua Teen Hunger Force">
+    <display-name>Aqua Teen Hunger Force</display-name>
+  </channel>
+  <channel id="Venture Bros">
+    <display-name>The Venture Bros</display-name>
+  </channel>
+  <channel id="Squidbillies">
+    <display-name>Squidbillies</display-name>
+  </channel>
+  <channel id="Rick And Morty">
+    <display-name>Rick and Morty</display-name>
+  </channel>
+  <channel id="Rick And Morty 2">
+    <display-name>Rick and More Morty</display-name>
+  </channel>
+  <channel id="Black Jesus">
+    <display-name>Black Jesus</display-name>
+  </channel>
+  <channel id="Mr Pickles">
+    <display-name>Mr. Pickles</display-name>
+  </channel>
+  <channel id="Apollo Gauntlet">
+    <display-name>Apollo Gauntlet</display-name>
+  </channel>
+  <channel id="Your Pretty Face Is Going To Hell">
+    <display-name>Your Pretty Face Is Going to Hell</display-name>
+  </channel>
+  <channel id="Eric Andre Show">
+    <display-name>The Eric Andre Show</display-name>
+  </channel>
+  <channel id="Samurai Jack">
+    <display-name>Samurai Jack</display-name>
+  </channel>
+  <channel id="Primal">
+    <display-name>Primal</display-name>
+  </channel>
+  <channel id="Primal 2">
+    <display-name>Secondary Primal</display-name>
+  </channel>
+</tv>
