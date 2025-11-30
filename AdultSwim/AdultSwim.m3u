@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim/logos/AdultSwim.png" group-title="Comedy", 1. Adult Swim
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim/logos/AdultSwim.png" group-title="[AS]", 1. Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/joe-pera/stream_5.m3u8
-#EXTINF:-1 tvg-id="Robot Chicken" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/RobotChicken.png" group-title="Comedy", 2. Robot Chicken
+#EXTINF:-1 tvg-id="Robot Chicken" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/RobotChicken.png" group-title="Animation", 2. Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_5.m3u8
-#EXTINF:-1 tvg-id="Infomercials" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Infomercials.png" group-title="Experimental", 3. Infomercials
+#EXTINF:-1 tvg-id="Infomercials" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Infomercials.png" group-title="[AS]", 3. Infomercials
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_5.m3u8
-#EXTINF:-1 tvg-id="Off The Air Smalls" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/OffTheAirSmalls.png" group-title="Experimental", 4. Off the Air Smalls
+#EXTINF:-1 tvg-id="Off The Air Smalls" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/OffTheAirSmalls.png" group-title="[AS]", 4. Off the Air Smalls
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_5.m3u8
-#EXTINF:-1 tvg-id="Channel 5" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Channel5.png" group-title="Variety", 5. Channel 5
+#EXTINF:-1 tvg-id="Channel 5" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Channel5.png" group-title="[AS]", 5. Channel 5
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_5.m3u8
-#EXTINF:-1 tvg-id="Metalocalypse" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Metalocalypse.png" group-title="Animated Series", 6. Metalocalypse
+#EXTINF:-1 tvg-id="Metalocalypse" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Metalocalypse.png" group-title="Dark Comedy", 6. Metalocalypse
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_5.m3u8
-#EXTINF:-1 tvg-id="Superjail" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Superjail.png" group-title="Animated Series", 7. Superjail
+#EXTINF:-1 tvg-id="Superjail" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Superjail.png" group-title="Dark Comedy", 7. Superjail
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_5.m3u8
-#EXTINF:-1 tvg-id="Aqua Teen Hunger Force" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/AquaTeenHungerForce.png" group-title="Animated Series", 8. Aqua Teen Hunger Force
+#EXTINF:-1 tvg-id="Aqua Teen Hunger Force" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/AquaTeenHungerForce.png" group-title="Animation", 8. Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_5.m3u8
-#EXTINF:-1 tvg-id="Venture Bros" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/VentureBros.png" group-title="Animated Series", 9. The Venture Bros
+#EXTINF:-1 tvg-id="Venture Bros" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/VentureBros.png" group-title="Action", 9. The Venture Bros
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_5.m3u8
-#EXTINF:-1 tvg-id="Squidbillies" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Squidbillies.png" group-title="Animated Series", 10. Squidbillies
+#EXTINF:-1 tvg-id="Squidbillies" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Squidbillies.png" group-title="Animation", 10. Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_5.m3u8
-#EXTINF:-1 tvg-id="Rick And Morty" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Rick&Morty.png" group-title="Animated Series", 11. Rick and Morty
+#EXTINF:-1 tvg-id="Rick And Morty" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Rick&Morty.png" group-title="Dark Comedy", 11. Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_5.m3u8
-#EXTINF:-1 tvg-id="Rick And Morty 2" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/RickandMoreMorty.png" group-title="Animated Series", 12. Rick and More Morty
+#EXTINF:-1 tvg-id="Rick And Morty 2" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/RickandMoreMorty.png" group-title="Dark Comedy", 12. Rick and More Morty
 https://adultswim-vodlive.cdn.turner.com/live/home-movies/stream_5.m3u8
-#EXTINF:-1 tvg-id="Black Jesus" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/BlackJesus.png" group-title="Comedy", 13. Black Jesus
+#EXTINF:-1 tvg-id="Black Jesus" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/BlackJesus.png" group-title="Live Action", 13. Black Jesus
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_5.m3u8
-#EXTINF:-1 tvg-id="Mr Pickles" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/MrPickles.png" group-title="Animated Series", 14. Mr. Pickles
+#EXTINF:-1 tvg-id="Mr Pickles" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/MrPickles.png" group-title="Dark Comedy", 14. Mr. Pickles
 https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_5.m3u8
-#EXTINF:-1 tvg-id="Apollo Gauntlet" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/ApolloGauntlet.png" group-title="Animated Series", 15. Apollo Gauntlet
+#EXTINF:-1 tvg-id="Apollo Gauntlet" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/ApolloGauntlet.png" group-title="Action", 15. Apollo Gauntlet
 https://adultswim-vodlive.cdn.turner.com/live/apollo-gauntlet/stream_5.m3u8
-#EXTINF:-1 tvg-id="Your Pretty Face Is Going To Hell" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/YourPrettyFace.png" group-title="Comedy", 16. Your Pretty Face Is Going to Hell
+#EXTINF:-1 tvg-id="Your Pretty Face Is Going To Hell" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/YourPrettyFace.png" group-title="Live Action", 16. Your Pretty Face Is Going to Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_5.m3u8
-#EXTINF:-1 tvg-id="Eric Andre Show" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/TheEricAndreShow.png" group-title="Comedy", 17. The Eric Andre Show
+#EXTINF:-1 tvg-id="Eric Andre Show" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/TheEricAndreShow.png" group-title="Live Action", 17. The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_5.m3u8
-#EXTINF:-1 tvg-id="Samurai Jack" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/SamuraiJack.png" group-title="Animated Series", 18. Samurai Jack
+#EXTINF:-1 tvg-id="Samurai Jack" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/SamuraiJack.png" group-title="Action", 18. Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_5.m3u8
-#EXTINF:-1 tvg-id="Primal" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Primal.png" group-title="Animated Series", 19. Primal
+#EXTINF:-1 tvg-id="Primal" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/Primal.png" group-title="Action", 19. Primal
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_5.m3u8
-#EXTINF:-1 tvg-id="Primal 2" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/SecondaryPrimal.png" group-title="Animated Series", 20. Secondary Primal
+#EXTINF:-1 tvg-id="Primal 2" tvg-logo="https://raw.githubusercontent.com/Ripshift/IPTV/refs/heads/main/AdultSwim//logos/SecondaryPrimal.png" group-title="Action", 20. Secondary Primal
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_5.m3u8
